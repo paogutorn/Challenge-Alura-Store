@@ -189,9 +189,3 @@ La Tienda 4 muestra:
 Aunque tiene el costo de envío promedio más bajo, su contribución a los ingresos totales de la cadena es la menor.
 
 Por lo tanto, vender esta tienda permitiría liberar capital sin afectar significativamente el rendimiento global de la cadena.
-
----
-
-# 📄 Licencia
-
-Este proyecto tiene fines educativos y de aprendizaje en análisis de datos.
